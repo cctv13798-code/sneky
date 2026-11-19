@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "ykens:font/scare.png",
+      "ascent": 27,
+      "height": 60,
+      "chars": [""]
+    }
+  ]
+}
