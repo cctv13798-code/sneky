@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "ykens",
+  "version": "${version}",
+  "name": "Ykens",
+  "description": "Görünmeyen bir psikolojik korku varlığı: arkandan sesler, ters tabelalar, kaybolan köylüler, öfkeli golemler ve lav tuzağı.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.ykens.YkensMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
